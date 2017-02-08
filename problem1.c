@@ -6,7 +6,7 @@ int main()
 
         float n = 1.0;
         float a;
-        printf("Please enter the radius ");
+        printf("Please enter the radius "); //edit
         fflush(stdout);
          scanf("%f",&n);
         a=n*n*pi;
